@@ -90,8 +90,8 @@ class CCDTrainingPipeline:
             file_operator = CCDFileOperations()
 
             # Removing The 'id' column
-            temp_df = feature_selector.ccd_remove_columns(validated_data, 'id')
-            message = f"{self.operation}: Removed the 'id' column"
+            temp_df = feature_selector.ccd_remove_columns(validated_data, ['id', 'ID'])
+            message = f"{self.operation}: Removed the 'id' and 'ID' column"
             self.ccd_training_pipeline_logging.info(message)
 
             # Splitting the data into features and label

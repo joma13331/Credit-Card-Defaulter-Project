@@ -164,3 +164,13 @@ INFO 06/08/2022 08:56:24 AM TRAINING: Best Logistic  Regressor trained
 INFO 06/08/2022 08:56:24 AM TRAINING: Search for best ridge model ended
 INFO 06/08/2022 08:56:24 AM TRAINING: Search for best svc model started
 INFO 06/08/2022 08:56:24 AM TRAINING: Using GridSearchCV to obtain the optimum parameters(dict_keys(['C', 'kernel', 'degree', 'gamma'])) of SVC
+INFO 06/08/2022 09:30:59 AM TRAINING: Search for best model started
+INFO 06/08/2022 09:30:59 AM TRAINING: Search for best logistic regressor model started
+INFO 06/08/2022 09:30:59 AM TRAINING: Using GridSearchCV to obtain the optimum parameters(dict_keys(['C', 'penalty', 'solver']))  of Logistic Regressor
+INFO 06/08/2022 09:31:07 AM TRAINING: The optimum parameters of Logistic Regressor are C=0.01, penalty=l2,solver=newton-cg  with the f1 score of 0.7922389371433322
+INFO 06/08/2022 09:31:07 AM TRAINING: Best Logistic  Regressor trained
+INFO 06/08/2022 09:31:07 AM TRAINING: Search for best ridge model ended
+INFO 06/08/2022 09:31:07 AM TRAINING: Search for best svc model started
+INFO 06/08/2022 09:31:07 AM TRAINING: Using GridSearchCV to obtain the optimum parameters(dict_keys(['C', 'kernel', 'degree', 'gamma'])) of SVC
+ERROR 06/08/2022 09:32:07 AM TRAINING: There was a problem while fitting SVC: 
+ERROR 06/08/2022 09:32:07 AM TRAINING: There was a problem while obtaining best model : 

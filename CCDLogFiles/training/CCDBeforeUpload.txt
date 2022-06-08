@@ -6,3 +6,4 @@ INFO 06/01/2022 11:21:46 AM TRAINING: Credit_Card_01062022_101600.csv transforme
 INFO 06/01/2022 11:22:46 AM TRAINING: Credit_Card_01062022_101600.csv transformed successfully
 INFO 06/02/2022 08:57:02 PM TRAINING: Credit_Card_01062022_101600.csv transformed successfully
 INFO 06/08/2022 08:55:35 AM TRAINING: Credit_Card_08062022_085534.csv transformed successfully
+INFO 06/08/2022 09:30:21 AM TRAINING: Credit_Card_08062022_093021.csv transformed successfully

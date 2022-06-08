@@ -284,3 +284,47 @@ INFO 06/08/2022 08:52:09 AM PREDICTION: Converted all possible continuous column
 INFO 06/08/2022 08:52:09 AM PREDICTION: Performed PCA and retained 99% of variance
 INFO 06/08/2022 08:52:09 AM PREDICTION: Data Preprocessing completed
 INFO 06/08/2022 08:52:10 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 09:27:23 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 09:27:23 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 09:27:23 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 09:27:23 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 09:27:23 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 09:27:23 AM PREDICTION: All the features have been scaled
+ERROR 06/08/2022 09:27:23 AM PREDICTION: There was an ERROR while performing prediction on given data: X has 11 features, but PowerTransformer is expecting 12 features as input.
+INFO 06/08/2022 09:29:48 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 09:29:48 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 09:29:48 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 09:29:48 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 09:29:48 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 09:29:48 AM PREDICTION: All the features have been scaled
+ERROR 06/08/2022 09:29:48 AM PREDICTION: There was an ERROR while performing prediction on given data: X has 11 features, but PowerTransformer is expecting 12 features as input.
+INFO 06/08/2022 09:37:03 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 09:37:03 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 09:37:03 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 09:37:03 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 09:37:03 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 09:37:03 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 09:37:03 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 09:37:03 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 09:37:03 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 09:37:05 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 09:37:27 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 09:37:27 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 09:37:27 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 09:37:27 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 09:37:27 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 09:37:27 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 09:37:27 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 09:37:27 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 09:37:27 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 09:37:27 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 09:37:27 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 09:37:27 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 09:37:27 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 09:37:27 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 09:37:27 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 09:37:27 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 09:37:27 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 09:37:27 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 09:37:29 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 09:37:29 AM PREDICTION: End of EEPrediction Pipeline
