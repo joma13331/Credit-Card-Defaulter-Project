@@ -1,0 +1,266 @@
+INFO 06/07/2022 12:36:25 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:36:25 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:36:25 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:36:25 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:36:25 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 12:36:25 PM PREDICTION: There was an ERROR while performing prediction on given data: 'OneHotEncoder' object has no attribute 'tranform'
+INFO 06/07/2022 12:36:38 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:36:38 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:36:38 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:36:38 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:36:38 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 12:36:38 PM PREDICTION: There was an ERROR while performing prediction on given data: "None of [Index(['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married',\n       'Others_MARRIAGE', 'Single'],\n      dtype='object')] are in the [columns]"
+INFO 06/07/2022 12:38:13 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:38:13 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:38:13 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:38:13 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:38:13 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 12:38:13 PM PREDICTION: There was an ERROR while performing prediction on given data: "None of [Index(['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married',\n       'Others_MARRIAGE', 'Single'],\n      dtype='object')] are in the [columns]"
+INFO 06/07/2022 12:38:56 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:38:56 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:38:56 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:38:56 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:38:56 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 12:38:56 PM PREDICTION: There was an ERROR while performing prediction on given data: "None of [Index(['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married',\n       'Others_MARRIAGE', 'Single'],\n      dtype='object')] are in the [columns]"
+INFO 06/07/2022 12:39:43 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:39:43 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:39:43 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:39:43 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:39:43 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 12:39:43 PM PREDICTION: There was an ERROR while performing prediction on given data: could not convert string to float: 'FEMALE'
+INFO 06/07/2022 12:41:42 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:41:42 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:41:42 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:41:42 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:41:42 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 12:41:43 PM PREDICTION: There was an ERROR while performing prediction on given data: could not convert string to float: 'FEMALE'
+INFO 06/07/2022 12:42:40 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:42:40 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:42:40 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:42:40 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:42:40 PM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/07/2022 12:42:40 PM PREDICTION: All the features have been scaled
+INFO 06/07/2022 12:42:40 PM PREDICTION: Converted all possible continuous columns to normal
+ERROR 06/07/2022 12:42:40 PM PREDICTION: There was an ERROR while performing prediction on given data: float() argument must be a string or a number, not 'PowerTransformer'
+INFO 06/07/2022 12:43:55 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:43:55 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:43:55 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:43:55 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:43:55 PM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/07/2022 12:43:55 PM PREDICTION: All the features have been scaled
+INFO 06/07/2022 12:43:55 PM PREDICTION: Converted all possible continuous columns to normal
+ERROR 06/07/2022 12:43:55 PM PREDICTION: There was an ERROR while performing prediction on given data: Shape of passed values is (1500, 23), indices imply (1500, 27)
+INFO 06/07/2022 12:46:07 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:46:07 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:46:07 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:46:07 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:46:07 PM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/07/2022 12:46:07 PM PREDICTION: All the features have been scaled
+INFO 06/07/2022 12:46:07 PM PREDICTION: Converted all possible continuous columns to normal
+ERROR 06/07/2022 12:46:07 PM PREDICTION: There was an ERROR while performing prediction on given data: Shape of passed values is (1500, 23), indices imply (1500, 27)
+INFO 06/07/2022 12:47:06 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:47:06 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:47:06 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:47:06 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:47:06 PM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/07/2022 12:47:07 PM PREDICTION: All the features have been scaled
+INFO 06/07/2022 12:47:07 PM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/07/2022 12:47:07 PM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/07/2022 12:47:07 PM PREDICTION: Data Preprocessing completed
+INFO 06/07/2022 12:47:10 PM PREDICTION: End of EEPrediction Pipeline
+INFO 06/07/2022 12:53:34 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 12:53:34 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 12:53:34 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 12:53:34 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 12:53:34 PM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/07/2022 12:53:34 PM PREDICTION: All the features have been scaled
+INFO 06/07/2022 12:53:34 PM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/07/2022 12:53:34 PM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/07/2022 12:53:34 PM PREDICTION: Data Preprocessing completed
+INFO 06/07/2022 12:53:34 PM PREDICTION: End of EEPrediction Pipeline
+INFO 06/07/2022 05:50:06 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 05:50:06 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 05:50:06 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 05:50:06 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 05:50:06 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 05:50:06 PM PREDICTION: There was an ERROR while performing prediction on given data: X has 28 features, but StandardScaler is expecting 27 features as input.
+INFO 06/07/2022 09:10:51 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 09:10:51 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 09:10:51 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 09:10:51 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 09:10:51 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 09:10:51 PM PREDICTION: There was an ERROR while performing prediction on given data: X has 28 features, but StandardScaler is expecting 27 features as input.
+INFO 06/07/2022 09:13:00 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/07/2022 09:13:00 PM PREDICTION: Data to predict on obtained
+INFO 06/07/2022 09:13:00 PM PREDICTION: Removed the 'id' column
+INFO 06/07/2022 09:13:00 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/07/2022 09:13:00 PM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/07/2022 09:13:00 PM PREDICTION: There was an ERROR while performing prediction on given data: X has 28 features, but StandardScaler is expecting 27 features as input.
+INFO 06/08/2022 07:13:04 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 07:13:04 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 07:13:04 AM PREDICTION: Removed the 'id' column
+INFO 06/08/2022 07:13:04 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 07:13:04 AM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/08/2022 07:13:04 AM PREDICTION: There was an ERROR while performing prediction on given data: X has 28 features, but StandardScaler is expecting 27 features as input.
+INFO 06/08/2022 07:19:24 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 07:19:24 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 07:19:24 AM PREDICTION: Removed the 'id' column
+INFO 06/08/2022 07:19:24 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 07:19:24 AM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/08/2022 07:19:24 AM PREDICTION: There was an ERROR while performing prediction on given data: X has 28 features, but StandardScaler is expecting 27 features as input.
+INFO 06/08/2022 07:19:59 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 07:19:59 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 07:19:59 AM PREDICTION: Removed the 'id' column
+INFO 06/08/2022 07:19:59 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 07:19:59 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 07:19:59 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 07:19:59 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 07:19:59 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 07:19:59 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 07:20:02 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 07:21:21 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 07:21:21 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 07:21:21 AM PREDICTION: Removed the 'id' column
+INFO 06/08/2022 07:21:21 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 07:21:21 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 07:21:21 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 07:21:21 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 07:21:21 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 07:21:21 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 07:21:22 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 07:30:23 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 07:30:23 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 07:30:23 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 07:30:23 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 07:30:23 AM PREDICTION: Removed the 'id' column
+INFO 06/08/2022 07:30:23 AM PREDICTION: Removed the 'id' column
+INFO 06/08/2022 07:30:23 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 07:30:23 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 07:30:23 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 07:30:23 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 07:30:23 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 07:30:23 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 07:30:23 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 07:30:23 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 07:30:23 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 07:30:23 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 07:30:23 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 07:30:23 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 07:30:24 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 07:30:24 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 07:56:05 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 07:56:05 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 07:56:05 AM PREDICTION: Removed the 'id' column
+INFO 06/08/2022 07:56:05 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 07:56:05 AM PREDICTION: Checked for null values and if any were present imputed them
+ERROR 06/08/2022 07:56:05 AM PREDICTION: There was an ERROR while performing prediction on given data: X has 28 features, but StandardScaler is expecting 27 features as input.
+INFO 06/08/2022 08:01:07 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:01:07 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:01:07 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:01:07 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:01:07 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:01:07 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:01:07 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:01:07 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:01:07 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:01:08 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:01:40 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:01:40 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:01:40 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:01:40 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:01:40 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:01:40 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:01:40 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:01:40 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:01:40 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:01:42 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:03:27 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:03:27 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:03:27 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:03:27 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:03:27 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:03:27 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:03:27 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:03:27 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:03:27 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:03:29 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:04:18 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:04:18 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:04:18 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:04:18 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:04:18 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:04:18 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:04:18 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:04:18 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:04:18 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:04:20 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:06:10 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:06:10 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:06:10 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:06:10 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:06:10 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:06:10 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:06:10 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:06:10 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:06:10 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:06:12 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:07:07 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:07:07 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:07:07 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:07:07 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:07:07 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:07:07 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:07:07 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:07:07 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:07:07 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:07:08 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:16:13 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:16:13 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:16:13 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:16:13 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:16:13 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:16:13 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:16:13 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:16:13 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:16:13 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:16:15 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:18:45 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:18:45 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:18:45 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:18:45 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:18:45 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:18:45 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:18:45 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:18:45 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:18:45 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:18:46 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:19:32 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:19:32 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:19:32 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:19:32 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:19:32 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:19:32 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:19:32 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:19:32 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:19:32 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:19:33 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:20:17 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:20:17 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:20:17 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:20:17 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:20:17 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:20:17 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:20:17 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:20:17 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:20:17 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:20:18 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/08/2022 08:21:55 AM PREDICTION: Start of Prediction Pipeline
+INFO 06/08/2022 08:21:55 AM PREDICTION: Data to predict on obtained
+INFO 06/08/2022 08:21:55 AM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/08/2022 08:21:55 AM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:21:55 AM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:21:55 AM PREDICTION: All the features have been scaled
+INFO 06/08/2022 08:21:55 AM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:21:55 AM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:21:55 AM PREDICTION: Data Preprocessing completed
+INFO 06/08/2022 08:21:57 AM PREDICTION: End of EEPrediction Pipeline

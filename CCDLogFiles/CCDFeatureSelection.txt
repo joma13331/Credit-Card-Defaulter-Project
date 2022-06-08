@@ -1,0 +1,206 @@
+INFO 06/02/2022 09:07:52 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:08:29 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:09:14 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:10:06 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:10:19 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:11:52 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:15:55 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:16:38 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:17:58 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:18:53 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:21:17 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:23:52 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:23:53 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:25:08 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:25:09 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:25:17 PM TRAINING: The features which have no or very impact on the output are ['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_1', 'PAY_2', 'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2', 'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1', 'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6']
+INFO 06/02/2022 09:31:20 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:31:21 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:33:00 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:33:01 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:34:50 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:34:51 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:35:32 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:35:34 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:36:50 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:36:51 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:44:02 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:44:03 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:44:29 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:44:30 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:44:37 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:44:38 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:44:59 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:45:00 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:45:10 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:45:11 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:45:20 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:45:21 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:45:42 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:45:43 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:45:54 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:45:55 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:46:05 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:46:06 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:46:12 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:46:13 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:46:24 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:46:25 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:47:39 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:47:40 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:47:48 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:47:49 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:47:56 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:47:57 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:48:04 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:48:05 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:48:10 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:48:12 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:48:28 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:48:29 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:51:10 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:51:11 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:51:18 PM TRAINING: The features which have no or very impact on the output are ['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_1', 'PAY_2', 'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2', 'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1', 'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6']
+INFO 06/02/2022 09:51:25 PM TRAINING: The features which have no or very impact on the output are ['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_1', 'PAY_2', 'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2', 'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1', 'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6']
+INFO 06/02/2022 09:51:31 PM TRAINING: The following columns were dropped: id
+INFO 06/02/2022 09:51:32 PM TRAINING: the features with all values as equal are []
+INFO 06/02/2022 09:51:40 PM TRAINING: The features which have no or very impact on the output are ['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_1', 'PAY_2', 'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2', 'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1', 'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6']
+INFO 06/02/2022 09:51:41 PM TRAINING: The features which have no or very impact on the output are ['Feature_1', 'Feature_2', 'Feature_3', 'Feature_4']
+INFO 06/03/2022 07:59:14 PM TRAINING: The following columns were dropped: id
+INFO 06/03/2022 08:04:29 PM TRAINING: The following columns were dropped: id
+INFO 06/03/2022 08:05:40 PM TRAINING: The following columns were dropped: id
+INFO 06/03/2022 08:08:15 PM TRAINING: The following columns were dropped: id
+INFO 06/03/2022 08:09:03 PM TRAINING: The following columns were dropped: id
+INFO 06/03/2022 08:10:52 PM TRAINING: The following columns were dropped: id
+INFO 06/03/2022 08:12:24 PM TRAINING: The following columns were dropped: id
+INFO 06/04/2022 09:27:49 AM TRAINING: The following columns were dropped: id
+INFO 06/04/2022 09:28:26 AM TRAINING: The following columns were dropped: id
+INFO 06/04/2022 07:56:43 PM TRAINING: The following columns were dropped: id
+INFO 06/04/2022 07:57:55 PM TRAINING: The following columns were dropped: id
+INFO 06/04/2022 07:59:26 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 05:51:32 AM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 05:52:47 AM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:19:12 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:45:12 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:47:06 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:47:34 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:47:46 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:48:29 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:49:55 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:50:52 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:51:18 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:53:44 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:54:16 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:54:50 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 12:59:59 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:01:06 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:01:36 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:02:18 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:04:39 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:04:51 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:07:24 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:07:58 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:10:40 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:10:55 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:12:15 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:13:18 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:15:20 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:16:25 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:19:06 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:19:21 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 01:20:04 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 02:05:15 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 02:05:29 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 02:07:56 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 02:08:48 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 02:09:45 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 03:09:08 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 03:12:09 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 04:01:26 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 04:03:05 PM TRAINING: The following columns were dropped: id
+INFO 06/05/2022 04:04:31 PM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 07:28:45 AM TRAINING: The following columns were dropped: id
+ERROR 06/06/2022 07:29:06 AM TRAINING: There was an ERROR while detecting columns all values as equal: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:32:00 AM TRAINING: The following columns were dropped: id
+ERROR 06/06/2022 07:32:21 AM TRAINING: There was an ERROR while detecting columns all values as equal: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:32:47 AM TRAINING: The following columns were dropped: id
+ERROR 06/06/2022 07:33:09 AM TRAINING: There was an ERROR while detecting columns all values as equal: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:35:40 AM TRAINING: The following columns were dropped: id
+ERROR 06/06/2022 07:36:01 AM TRAINING: There was an ERROR while detecting columns all values as equal: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:39:03 AM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 07:39:24 AM TRAINING: the features with all values as equal are []
+INFO 06/06/2022 07:39:24 AM TRAINING: The following columns were dropped: []
+INFO 06/06/2022 07:43:24 AM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 07:44:06 AM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 07:45:09 AM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 07:45:47 AM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 07:46:31 AM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 07:46:53 AM TRAINING: the features with all values as equal are []
+INFO 06/06/2022 07:46:53 AM TRAINING: The following columns were dropped: []
+INFO 06/06/2022 12:39:44 PM TRAINING: The following columns were dropped: id
+INFO 06/06/2022 12:40:05 PM TRAINING: the features with all values as equal are []
+INFO 06/06/2022 12:40:05 PM TRAINING: The following columns were dropped: []
+INFO 06/07/2022 12:36:25 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:36:25 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:36:38 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:36:38 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:38:13 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:38:13 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:38:56 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:38:56 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:39:43 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:39:43 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:41:42 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:41:42 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:42:40 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:42:40 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:43:55 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:43:55 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:46:07 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:46:07 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:47:06 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:47:06 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 12:53:34 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 12:53:34 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 05:50:06 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 05:50:06 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 09:10:51 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 09:10:51 PM PREDICTION: The following columns were dropped: []
+INFO 06/07/2022 09:13:00 PM PREDICTION: The following columns were dropped: id
+INFO 06/07/2022 09:13:00 PM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 07:13:04 AM PREDICTION: The following columns were dropped: id
+INFO 06/08/2022 07:13:04 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 07:19:24 AM PREDICTION: The following columns were dropped: id
+INFO 06/08/2022 07:19:24 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 07:19:59 AM PREDICTION: The following columns were dropped: id
+INFO 06/08/2022 07:19:59 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 07:21:21 AM PREDICTION: The following columns were dropped: id
+INFO 06/08/2022 07:21:21 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 07:30:23 AM PREDICTION: The following columns were dropped: id
+INFO 06/08/2022 07:30:23 AM PREDICTION: The following columns were dropped: id
+INFO 06/08/2022 07:30:23 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 07:30:23 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 07:56:05 AM PREDICTION: The following columns were dropped: id
+INFO 06/08/2022 07:56:05 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:01:07 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:01:07 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:01:40 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:01:40 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:03:27 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:03:27 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:04:18 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:04:18 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:06:10 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:06:10 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:07:07 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:07:07 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:16:13 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:16:13 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:18:45 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:18:45 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:19:32 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:19:32 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:20:17 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:20:17 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:21:55 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:21:55 AM PREDICTION: The following columns were dropped: []

@@ -1,0 +1,77 @@
+ERROR 06/01/2022 10:46:45 AM TRAINING:KeyError:Incorrect key passed for schema_training.json
+INFO 06/01/2022 10:47:12 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/01/2022 10:47:12 AM TRAINING: Good and Bad file directory created
+INFO 06/01/2022 10:47:12 AM TRAINING: Credit_Card_01062022_101600.csv is valid!! moved to GoodRaw folder
+INFO 06/01/2022 10:47:12 AM TRAINING: Column Length Validation Started!!
+ERROR 06/01/2022 10:47:12 AM TRAINING: Error occurred : Unsupported format, or corrupt file: Expected BOF record; found b'"ID","LI'
+INFO 06/01/2022 10:48:57 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/01/2022 10:48:57 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 06/01/2022 10:48:57 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 06/01/2022 10:48:57 AM TRAINING: Good and Bad file directory created
+INFO 06/01/2022 10:48:57 AM TRAINING: Credit_Card_01062022_101600.csv is valid!! moved to GoodRaw folder
+INFO 06/01/2022 10:48:57 AM TRAINING: Column Length Validation Started!!
+INFO 06/01/2022 10:48:57 AM TRAINING: invalid Column length for the file Credit_Card_01062022_101600.csv.File moved to Bad Folder
+INFO 06/01/2022 10:48:57 AM TRAINING: Column Length Validation Completed!!
+INFO 06/01/2022 10:48:57 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 06/01/2022 10:48:57 AM TRAINING: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-01_10_48_57.xls
+INFO 06/01/2022 10:48:57 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 06/01/2022 10:52:07 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/01/2022 10:53:07 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/01/2022 10:53:12 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/01/2022 10:54:50 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/01/2022 10:55:28 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/01/2022 10:55:28 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 06/01/2022 10:55:28 AM TRAINING: Good and Bad file directory created
+INFO 06/01/2022 10:55:28 AM TRAINING: Credit_Card_01062022_101600.csv is valid!! moved to GoodRaw folder
+INFO 06/01/2022 10:55:28 AM TRAINING: Column Length Validation Started!!
+INFO 06/01/2022 10:55:28 AM TRAINING: invalid Column length for the file Credit_Card_01062022_101600.csv.File moved to Bad Folder
+INFO 06/01/2022 10:55:28 AM TRAINING: Column Length Validation Completed!!
+INFO 06/01/2022 10:55:28 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 06/01/2022 10:55:28 AM TRAINING: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-01_10_55_28.csv
+INFO 06/01/2022 10:55:28 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 06/01/2022 10:56:34 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/01/2022 10:56:34 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 06/01/2022 10:56:34 AM TRAINING: Good and Bad file directory created
+INFO 06/01/2022 10:56:34 AM TRAINING: Credit_Card_01062022_101600.csv is valid!! moved to GoodRaw folder
+INFO 06/01/2022 10:56:34 AM TRAINING: Column Length Validation Started!!
+INFO 06/01/2022 10:56:34 AM TRAINING: Credit_Card_01062022_101600.csv validated. File remains in Good Folder
+INFO 06/01/2022 10:56:34 AM TRAINING: Column Length Validation Completed!!
+INFO 06/01/2022 10:56:34 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 06/01/2022 10:56:34 AM TRAINING: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-01_10_56_34.csv
+INFO 06/01/2022 10:56:34 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 06/01/2022 11:17:27 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/01/2022 11:20:39 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/01/2022 11:21:18 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/01/2022 11:21:32 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/01/2022 11:21:46 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/01/2022 11:21:46 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 06/01/2022 11:21:46 AM TRAINING: Good and Bad file directory created
+INFO 06/01/2022 11:21:46 AM TRAINING: Credit_Card_01062022_101600.csv is valid!! moved to GoodRaw folder
+INFO 06/01/2022 11:21:46 AM TRAINING: Column Length Validation Started!!
+INFO 06/01/2022 11:21:46 AM TRAINING: Credit_Card_01062022_101600.csv validated. File remains in Good Folder
+INFO 06/01/2022 11:21:46 AM TRAINING: Column Length Validation Completed!!
+INFO 06/01/2022 11:21:46 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 06/01/2022 11:21:46 AM TRAINING: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-01_11_21_46.csv
+INFO 06/01/2022 11:21:46 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 06/01/2022 11:22:46 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/01/2022 11:22:46 AM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 06/01/2022 11:22:46 AM TRAINING: Good and Bad file directory created
+INFO 06/01/2022 11:22:46 AM TRAINING: Credit_Card_01062022_101600.csv is valid!! moved to GoodRaw folder
+INFO 06/01/2022 11:22:46 AM TRAINING: Column Length Validation Started!!
+INFO 06/01/2022 11:22:46 AM TRAINING: Credit_Card_01062022_101600.csv validated. File remains in Good Folder
+INFO 06/01/2022 11:22:46 AM TRAINING: Column Length Validation Completed!!
+INFO 06/01/2022 11:22:46 AM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 06/01/2022 11:22:46 AM TRAINING: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-01_11_22_46.csv
+INFO 06/01/2022 11:22:46 AM TRAININGBadRaw directory deleted successfully!!!
+INFO 06/01/2022 11:28:12 AM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/02/2022 08:57:01 PM TRAINING: Length of year of file = 8, Length of time of file = 6, Number of columns = 25
+INFO 06/02/2022 08:57:01 PM TRAINING: GoodRaw directory deleted successfully!!!
+INFO 06/02/2022 08:57:01 PM TRAINING: Good and Bad file directory created
+INFO 06/02/2022 08:57:01 PM TRAINING: Credit_Card_01062022_101600.csv is valid!! moved to GoodRaw folder
+INFO 06/02/2022 08:57:01 PM TRAINING: Column Length Validation Started!!
+INFO 06/02/2022 08:57:01 PM TRAINING: Credit_Card_01062022_101600.csv validated. File remains in Good Folder
+INFO 06/02/2022 08:57:01 PM TRAINING: Column Length Validation Completed!!
+INFO 06/02/2022 08:57:01 PM TRAINING: Check for Whole Columns as Empty Validation Started!!
+INFO 06/02/2022 08:57:01 PM TRAINING: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-02_20_57_01.csv
+INFO 06/02/2022 08:57:01 PM TRAININGBadRaw directory deleted successfully!!!
+INFO 06/02/2022 08:57:02 PM TRAINING: Excel file Converted directly to required csv file for future preprocessing

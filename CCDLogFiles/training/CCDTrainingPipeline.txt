@@ -1,0 +1,156 @@
+INFO 06/06/2022 07:28:45 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:28:45 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:28:45 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:28:45 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:28:45 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:28:45 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:28:45 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:28:45 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:28:45 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:28:45 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:29:06 AM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/06/2022 07:29:06 AM TRAINING: There was an ERROR in obtaining best model: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:32:00 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:32:00 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:32:00 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:32:00 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:32:00 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:32:00 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:32:00 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:32:00 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:32:00 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:32:00 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:32:21 AM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/06/2022 07:32:21 AM TRAINING: There was an ERROR in obtaining best model: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:32:46 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:32:46 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:32:47 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:32:47 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:32:47 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:32:47 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:32:47 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:32:47 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:32:47 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:32:47 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:33:09 AM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/06/2022 07:33:09 AM TRAINING: There was an ERROR in obtaining best model: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:35:40 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:35:40 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:35:40 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:35:40 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:35:40 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:35:40 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:35:40 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:35:40 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:35:40 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:35:40 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:36:01 AM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/06/2022 07:36:01 AM TRAINING: There was an ERROR in obtaining best model: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:39:02 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:39:02 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:39:03 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:39:03 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:39:03 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:39:03 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:39:03 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:39:03 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:39:03 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:39:03 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:39:24 AM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/06/2022 07:39:24 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 06/06/2022 07:39:24 AM TRAINING: All the features have been scaled
+INFO 06/06/2022 07:39:26 AM TRAINING: Converted all possible continuous columns to normal
+INFO 06/06/2022 07:39:26 AM TRAINING: Performed PCA and retained 99% of variance
+INFO 06/06/2022 07:39:26 AM TRAINING: Data Preprocessing completed
+INFO 06/06/2022 07:39:26 AM TRAINING: Data Clustering Started
+INFO 06/06/2022 07:39:40 AM TRAINING: Data Clustering Completed
+INFO 06/06/2022 07:39:40 AM TRAINING: Start of Training for cluster 2
+INFO 06/06/2022 07:43:23 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:43:23 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:43:24 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:43:24 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:43:24 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:43:24 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:43:24 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:43:24 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:43:24 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:43:24 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:43:44 AM TRAINING: There was an ERROR in obtaining best model: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:44:06 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:44:06 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:44:06 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:44:06 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:44:06 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:44:06 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:44:06 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:44:06 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:44:06 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:44:06 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:44:28 AM TRAINING: There was an ERROR in obtaining best model: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:45:09 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:45:09 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:45:09 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:45:09 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:45:09 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:45:09 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:45:09 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:45:09 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:45:09 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:45:09 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:45:30 AM TRAINING: There was an ERROR in obtaining best model: Series.name must be a hashable type
+INFO 06/06/2022 07:45:46 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:45:46 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:45:47 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:45:47 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:45:47 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:45:47 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:45:47 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:45:47 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:45:47 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:45:47 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:46:08 AM TRAINING: There was an ERROR in obtaining best model: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:46:31 AM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 07:46:31 AM TRAINING: Getting Validated Data
+INFO 06/06/2022 07:46:31 AM TRAINING: Validated Data Obtained
+INFO 06/06/2022 07:46:31 AM TRAINING: Data Preprocessing started
+INFO 06/06/2022 07:46:31 AM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 07:46:31 AM TRAINING: Separated the features and labels
+INFO 06/06/2022 07:46:31 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 07:46:31 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 07:46:31 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 07:46:31 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 07:46:53 AM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/06/2022 07:46:53 AM TRAINING: Dropped all the relevant columns after feature selection
+INFO 06/06/2022 07:46:53 AM TRAINING: All the features have been scaled
+INFO 06/06/2022 07:46:55 AM TRAINING: Converted all possible continuous columns to normal
+INFO 06/06/2022 07:46:55 AM TRAINING: Performed PCA and retained 99% of variance
+INFO 06/06/2022 07:46:55 AM TRAINING: Data Preprocessing completed
+INFO 06/06/2022 07:46:55 AM TRAINING: Data Clustering Started
+INFO 06/06/2022 07:47:09 AM TRAINING: Data Clustering Completed
+INFO 06/06/2022 07:47:09 AM TRAINING: Start of Training for cluster 0
+INFO 06/06/2022 12:39:44 PM TRAINING: Start of Training Pipeline
+INFO 06/06/2022 12:39:44 PM TRAINING: Getting Validated Data
+INFO 06/06/2022 12:39:44 PM TRAINING: Validated Data Obtained
+INFO 06/06/2022 12:39:44 PM TRAINING: Data Preprocessing started
+INFO 06/06/2022 12:39:44 PM TRAINING: Removed the 'ID' column
+INFO 06/06/2022 12:39:44 PM TRAINING: Separated the features and labels
+INFO 06/06/2022 12:39:44 PM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/06/2022 12:39:44 PM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/06/2022 12:39:44 PM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/06/2022 12:39:44 PM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/06/2022 12:40:05 PM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/06/2022 12:40:05 PM TRAINING: Dropped all the relevant columns after feature selection
+INFO 06/06/2022 12:40:05 PM TRAINING: All the features have been scaled
+INFO 06/06/2022 12:40:07 PM TRAINING: Converted all possible continuous columns to normal
+INFO 06/06/2022 12:40:07 PM TRAINING: Performed PCA and retained 99% of variance
+INFO 06/06/2022 12:40:07 PM TRAINING: Data Preprocessing completed
+INFO 06/06/2022 12:40:07 PM TRAINING: Data Clustering Started
+INFO 06/06/2022 12:40:21 PM TRAINING: Data Clustering Completed
+INFO 06/06/2022 12:40:21 PM TRAINING: Start of Training for cluster 1
+INFO 06/06/2022 04:50:17 PM TRAINING:Model for cluster 1 trained
+INFO 06/06/2022 04:50:17 PM TRAINING: Start of Training for cluster 0
+INFO 06/06/2022 08:51:25 PM TRAINING:Model for cluster 0 trained
+INFO 06/06/2022 08:51:25 PM TRAINING: Start of Training for cluster 2
+INFO 06/06/2022 11:32:37 PM TRAINING:Model for cluster 2 trained
+INFO 06/06/2022 11:32:37 PM TRAINING: Successful End of Training 
+INFO 06/06/2022 11:32:37 PM TRAINING: Training Pipeline Successfully Completed

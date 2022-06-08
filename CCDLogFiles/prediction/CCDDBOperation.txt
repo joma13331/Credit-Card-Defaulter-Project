@@ -1,0 +1,39 @@
+INFO 06/07/2022 12:29:27 PM PREDICTION: Connection successful with cassandra database
+INFO 06/07/2022 12:29:27 PM PREDICTION: accessed the credit_card_defaulters_internship keyspace
+INFO 06/07/2022 12:29:29 PM PREDICTION: The table for Good Data created
+INFO 06/07/2022 12:29:30 PM PREDICTION: Any row if existing deleted
+INFO 06/07/2022 12:29:30 PM PREDICTION: Session terminated create table operation
+ERROR 06/07/2022 12:29:54 PM PREDICTION: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+ERROR 06/07/2022 12:29:54 PM PREDICTION: Error while uploading data to good_data table: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 12:29:54 PM PREDICTION: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 12:30:26 PM PREDICTION: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 06/07/2022 12:30:26 PM PREDICTION: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 12:30:26 PM PREDICTION: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 12:30:55 PM PREDICTION: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 06/07/2022 12:30:55 PM PREDICTION: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 12:30:55 PM PREDICTION: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+INFO 06/07/2022 12:32:36 PM PREDICTION: Connection successful with cassandra database
+INFO 06/07/2022 12:32:36 PM PREDICTION: accessed the credit_card_defaulters_internship keyspace
+INFO 06/07/2022 12:32:37 PM PREDICTION: The table for Good Data created
+INFO 06/07/2022 12:32:37 PM PREDICTION: Any row if existing deleted
+INFO 06/07/2022 12:32:39 PM PREDICTION: Session terminated create table operation
+INFO 06/07/2022 12:32:56 PM PREDICTION: Connection successful with cassandra database
+INFO 06/07/2022 12:32:57 PM PREDICTION: accessed the credit_card_defaulters_internship keyspace
+ERROR 06/07/2022 12:32:57 PM PREDICTION: Error while uploading data to good_data table: Error from server: code=2200 [Invalid query] message="Undefined column name "PAY_0""
+INFO 06/07/2022 12:32:57 PM PREDICTION: Session terminated insert data operation
+ERROR 06/07/2022 12:32:57 PM PREDICTION: Error in Database Pipeline: Error from server: code=2200 [Invalid query] message="Undefined column name "PAY_0""
+ERROR 06/07/2022 12:34:44 PM PREDICTION: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+INFO 06/07/2022 12:34:44 PM PREDICTION: The table for Good Data was Not created: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/07/2022 12:34:44 PM PREDICTION: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)
+INFO 06/08/2022 08:22:09 AM PREDICTION: Connection successful with cassandra database
+INFO 06/08/2022 08:22:09 AM PREDICTION: accessed the credit_card_defaulters_internship keyspace
+INFO 06/08/2022 08:22:12 AM PREDICTION: The table for Good Data created
+INFO 06/08/2022 08:22:12 AM PREDICTION: Any row if existing deleted
+INFO 06/08/2022 08:22:12 AM PREDICTION: Session terminated create table operation
+INFO 06/08/2022 08:22:41 AM PREDICTION: Connection successful with cassandra database
+INFO 06/08/2022 08:22:42 AM PREDICTION: accessed the credit_card_defaulters_internship keyspace
+INFO 06/08/2022 08:31:12 AM PREDICTION: Data in Credit_Card_07062022_125200.csv uploaded successfully to good_data table
+INFO 06/08/2022 08:31:12 AM PREDICTION: Session terminated insert data operation
+ERROR 06/08/2022 08:31:35 AM PREDICTION: Connection Unsuccessful with cassandra database due to Incorrect credentials or no connection from datastax
+ERROR 06/08/2022 08:31:35 AM PREDICTION: Error while downloading good data into csv file: __init__() takes exactly 3 positional arguments (1 given)
+ERROR 06/08/2022 08:31:35 AM PREDICTION: Error in Database Pipeline: __init__() takes exactly 3 positional arguments (1 given)

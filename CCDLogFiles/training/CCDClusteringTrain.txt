@@ -1,0 +1,54 @@
+INFO 06/03/2022 07:59:24 PM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633013
+INFO 06/03/2022 07:59:25 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/03/2022 08:04:40 PM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633013
+INFO 06/03/2022 08:04:40 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/03/2022 08:05:50 PM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633013
+INFO 06/03/2022 08:05:51 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/03/2022 08:08:26 PM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633013
+INFO 06/03/2022 08:08:27 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/03/2022 08:09:14 PM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633013
+INFO 06/03/2022 08:09:14 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/03/2022 08:11:02 PM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633013
+INFO 06/03/2022 08:11:02 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/03/2022 08:12:34 PM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633013
+INFO 06/03/2022 08:12:35 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/04/2022 09:27:59 AM TRAINING The optimum cluster value obtained is 3 with wcss=488250.82765633106
+INFO 06/04/2022 09:28:00 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/04/2022 09:28:35 AM TRAINING The optimum cluster value obtained is 3 with wcss=473853.7339487792
+INFO 06/04/2022 09:28:36 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/04/2022 07:57:18 PM TRAINING The optimum cluster value obtained is 3 with wcss=621303.5632116533
+INFO 06/04/2022 07:57:18 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/04/2022 07:58:29 PM TRAINING The optimum cluster value obtained is 3 with wcss=620561.4137231231
+INFO 06/04/2022 07:58:29 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/04/2022 08:00:00 PM TRAINING The optimum cluster value obtained is 3 with wcss=621653.7273247072
+INFO 06/04/2022 08:00:00 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 05:52:09 AM TRAINING The optimum cluster value obtained is 3 with wcss=578700.4139739374
+INFO 06/05/2022 05:52:09 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 05:53:24 AM TRAINING The optimum cluster value obtained is 3 with wcss=572606.3945881308
+INFO 06/05/2022 05:53:25 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 01:20:43 PM TRAINING The optimum cluster value obtained is 3 with wcss=725058.5582451603
+INFO 06/05/2022 01:20:43 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 02:06:07 PM TRAINING The optimum cluster value obtained is 3 with wcss=720849.0867091792
+INFO 06/05/2022 02:06:08 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 02:08:31 PM TRAINING The optimum cluster value obtained is 3 with wcss=720790.9604841436
+INFO 06/05/2022 02:08:32 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 02:09:24 PM TRAINING The optimum cluster value obtained is 3 with wcss=718188.090312932
+INFO 06/05/2022 02:09:24 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 02:10:22 PM TRAINING The optimum cluster value obtained is 3 with wcss=720024.663616375
+INFO 06/05/2022 02:10:23 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 03:09:46 PM TRAINING The optimum cluster value obtained is 3 with wcss=718446.4838040541
+INFO 06/05/2022 03:09:47 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 03:12:47 PM TRAINING The optimum cluster value obtained is 3 with wcss=725521.5571670195
+INFO 06/05/2022 03:12:48 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 04:02:02 PM TRAINING The optimum cluster value obtained is 3 with wcss=724311.1310349646
+INFO 06/05/2022 04:02:03 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 04:03:42 PM TRAINING The optimum cluster value obtained is 3 with wcss=718770.9990294196
+INFO 06/05/2022 04:03:42 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/05/2022 04:05:10 PM TRAINING The optimum cluster value obtained is 3 with wcss=724145.6110741027
+INFO 06/05/2022 04:05:10 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/06/2022 07:39:40 AM TRAINING The optimum cluster value obtained is 3 with wcss=723793.1337153496
+INFO 06/06/2022 07:39:40 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/06/2022 07:47:09 AM TRAINING The optimum cluster value obtained is 3 with wcss=726688.2150618507
+INFO 06/06/2022 07:47:09 AM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/06/2022 12:40:20 PM TRAINING The optimum cluster value obtained is 3 with wcss=720617.8301317275
+INFO 06/06/2022 12:40:21 PM TRAINING: EEClustering has been done, with cluster column added to dataset

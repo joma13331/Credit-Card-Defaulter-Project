@@ -1,0 +1,157 @@
+INFO 06/02/2022 09:01:36 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:02:21 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:07:52 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:08:29 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:09:14 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:10:06 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:10:19 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:11:52 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:15:55 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:16:38 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:17:58 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:18:53 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:21:17 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:23:52 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:25:08 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:31:20 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:33:00 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:34:50 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:35:32 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:36:50 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:44:02 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:44:29 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:44:37 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:44:59 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:45:10 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:45:20 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:45:42 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:45:54 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:46:05 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:46:12 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:46:24 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:47:39 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:47:48 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:47:56 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:48:04 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:48:10 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:48:28 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:51:10 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/02/2022 09:51:31 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/03/2022 07:59:14 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/03/2022 08:04:29 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/03/2022 08:05:40 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/03/2022 08:08:15 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/03/2022 08:09:03 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/03/2022 08:10:52 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/03/2022 08:12:24 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/04/2022 09:27:49 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/04/2022 09:28:26 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/04/2022 07:56:43 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/04/2022 07:57:55 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/04/2022 07:59:26 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 05:51:32 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 05:52:47 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 11:59:15 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 11:59:15 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 11:59:28 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 11:59:28 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:19:12 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:19:12 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:45:12 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:45:12 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:47:06 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:47:06 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:47:34 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:47:34 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:47:46 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:47:46 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:48:29 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:48:29 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:49:55 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:49:55 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:50:52 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:50:52 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:51:18 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:51:18 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:53:44 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:53:44 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:54:16 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:54:16 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:54:49 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:54:50 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 12:59:59 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 12:59:59 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:01:06 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:01:06 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:01:36 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:01:36 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:02:18 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:02:18 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:04:39 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:04:39 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:04:51 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:04:51 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:07:24 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:07:24 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:07:58 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:07:58 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:10:40 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:10:40 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:10:55 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:10:55 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:12:15 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:12:15 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:13:18 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:13:18 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:15:20 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:15:20 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:16:25 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:16:25 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:19:06 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:19:06 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:19:21 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:19:21 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 01:20:04 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 01:20:04 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 02:05:15 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 02:05:15 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 02:05:29 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 02:05:29 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 02:07:56 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 02:07:56 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 02:08:48 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 02:08:48 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 02:09:45 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 02:09:45 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 03:09:08 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 03:09:08 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 03:12:09 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 03:12:09 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 04:01:26 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 04:01:26 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 04:03:05 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 04:03:05 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/05/2022 04:04:31 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/05/2022 04:04:31 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:28:45 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:28:45 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:32:00 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:32:00 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:32:47 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:32:47 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:35:40 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:35:40 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:39:03 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:39:03 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:43:24 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:43:24 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:44:06 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:44:06 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:45:09 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:45:09 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:45:47 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:45:47 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 07:46:31 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 07:46:31 AM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/06/2022 12:39:44 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/06/2022 12:39:44 PM TRAINING: The data is loaded successfully as a pandas dataframe

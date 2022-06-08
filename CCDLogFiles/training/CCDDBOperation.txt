@@ -1,0 +1,17 @@
+INFO 06/01/2022 11:17:41 AM TRAINING: Connection successful with cassandra database
+INFO 06/01/2022 11:17:42 AM TRAINING: accessed the credit_card_defaulters_internship keyspace
+INFO 06/01/2022 11:17:44 AM TRAINING: The table for Good Data created
+INFO 06/01/2022 11:17:45 AM TRAINING: Any row if existing deleted
+INFO 06/01/2022 11:17:45 AM TRAINING: Session terminated create table operation
+INFO 06/01/2022 11:17:59 AM TRAINING: Connection successful with cassandra database
+INFO 06/01/2022 11:18:00 AM TRAINING: accessed the credit_card_defaulters_internship keyspace
+INFO 06/01/2022 11:18:23 AM TRAINING: Session terminated insert data operation
+INFO 06/01/2022 11:28:25 AM TRAINING: Connection successful with cassandra database
+INFO 06/01/2022 11:28:26 AM TRAINING: accessed the credit_card_defaulters_internship keyspace
+INFO 06/01/2022 11:28:28 AM TRAINING: The table for Good Data created
+INFO 06/01/2022 11:28:29 AM TRAINING: Any row if existing deleted
+INFO 06/01/2022 11:28:29 AM TRAINING: Session terminated create table operation
+INFO 06/01/2022 11:28:46 AM TRAINING: Connection successful with cassandra database
+INFO 06/01/2022 11:28:46 AM TRAINING: accessed the credit_card_defaulters_internship keyspace
+ERROR 06/01/2022 12:48:19 PM TRAINING: Error while uploading data to good_data table: errors={'ef3984f5-573c-4d75-b759-4fc56168779a-us-east1.db.astra.datastax.com:29042:68d1bbfe-9b67-47d7-a4c2-710d388996d0': 'Client request timeout. See Session.execute[_async](timeout)'}, last_host=ef3984f5-573c-4d75-b759-4fc56168779a-us-east1.db.astra.datastax.com:29042:68d1bbfe-9b67-47d7-a4c2-710d388996d0
+INFO 06/01/2022 12:48:19 PM TRAINING: Session terminated insert data operation

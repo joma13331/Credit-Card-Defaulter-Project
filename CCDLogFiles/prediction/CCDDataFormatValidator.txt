@@ -1,0 +1,338 @@
+INFO 06/07/2022 12:26:34 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 12:26:34 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 12:26:34 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 12:26:34 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 12:26:34 PM PREDICTION: invalid Column length for the file Credit_Card_07062022_122400.csv.File moved to Bad Folder
+INFO 06/07/2022 12:26:34 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 12:26:34 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 12:26:34 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_12_26_34.csv
+INFO 06/07/2022 12:26:34 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 12:26:34 PM PREDICTION: Error occurred while direct conversion from csv to csv: No objects to concatenate
+INFO 06/07/2022 12:28:30 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 12:28:30 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 12:28:30 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 12:28:30 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 12:28:30 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 12:28:30 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 12:28:30 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 12:28:30 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 12:28:30 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_12_28_30.csv
+INFO 06/07/2022 12:28:30 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 12:28:30 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 12:29:13 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 12:29:13 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 12:29:13 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 12:29:13 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 12:29:13 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 12:29:13 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 12:29:13 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 12:29:13 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 12:29:13 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_12_29_13.csv
+INFO 06/07/2022 12:29:13 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 12:29:13 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 12:30:04 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 12:30:04 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 12:30:04 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 12:30:04 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 12:30:04 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 12:30:04 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 12:30:04 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 12:30:04 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 12:30:04 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_12_30_04.csv
+INFO 06/07/2022 12:30:04 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 12:30:04 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 12:30:34 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 12:30:34 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 12:30:34 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 12:30:34 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 12:30:34 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 12:30:34 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 12:30:34 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 12:30:34 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 12:30:34 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_12_30_34.csv
+INFO 06/07/2022 12:30:34 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 12:30:34 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 12:32:22 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 12:32:22 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 12:32:22 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 12:32:22 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 12:32:22 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 12:32:22 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 12:32:22 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 12:32:22 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 12:32:22 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_12_32_22.csv
+INFO 06/07/2022 12:32:22 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 12:32:22 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 12:34:22 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 12:34:22 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 12:34:22 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 12:34:22 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 12:34:22 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 12:34:22 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 12:34:22 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 12:34:22 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 12:34:22 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_12_34_22.csv
+INFO 06/07/2022 12:34:22 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 12:34:22 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 05:50:06 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 05:50:06 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 05:50:06 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 05:50:06 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 05:50:06 PM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 05:50:06 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 05:50:06 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 05:50:06 PM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/07/2022 05:50:06 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 05:50:06 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 05:50:06 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_17_50_06.csv
+INFO 06/07/2022 05:50:06 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 05:50:06 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 05:50:42 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 05:50:42 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 05:50:42 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 05:50:42 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 05:50:42 PM PREDICTION: Concrete_Data_07062022_175042.xls is not valid!! moved to BadRaw folder
+INFO 06/07/2022 05:50:42 PM PREDICTION: Concrete_Data_07062022_175042.xls is not valid!! moved to BadRaw folder
+INFO 06/07/2022 05:50:42 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_17_50_42.csv
+INFO 06/07/2022 05:50:42 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_17_50_42.csv
+INFO 06/07/2022 05:50:42 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 05:50:42 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 05:50:42 PM PREDICTION: Error occurred while direct conversion from csv to csv: No objects to concatenate
+INFO 06/07/2022 05:50:42 PM PREDICTION: Error occurred while direct conversion from csv to csv: No objects to concatenate
+INFO 06/07/2022 09:10:51 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 09:10:51 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 09:10:51 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 09:10:51 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 09:10:51 PM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 09:10:51 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 09:10:51 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 09:10:51 PM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/07/2022 09:10:51 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 09:10:51 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 09:10:51 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_21_10_51.csv
+INFO 06/07/2022 09:10:51 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 09:10:51 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/07/2022 09:13:00 PM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/07/2022 09:13:00 PM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/07/2022 09:13:00 PM PREDICTION: Good and Bad file directory created
+INFO 06/07/2022 09:13:00 PM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 09:13:00 PM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/07/2022 09:13:00 PM PREDICTION: Column Length Validation Started!!
+INFO 06/07/2022 09:13:00 PM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/07/2022 09:13:00 PM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/07/2022 09:13:00 PM PREDICTION: Column Length Validation Completed!!
+INFO 06/07/2022 09:13:00 PM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/07/2022 09:13:00 PM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-07_21_13_00.csv
+INFO 06/07/2022 09:13:00 PM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/07/2022 09:13:00 PM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 07:13:03 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 07:13:03 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 07:13:03 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 07:13:03 AM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:13:03 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:13:03 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 07:13:04 AM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:13:04 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:13:04 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 07:13:04 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 07:13:04 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_07_13_04.csv
+INFO 06/08/2022 07:13:04 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 07:13:04 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 07:19:24 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 07:19:24 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 07:19:24 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 07:19:24 AM PREDICTION: Credit_Card_07062022_122400.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:19:24 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:19:24 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 07:19:24 AM PREDICTION: Credit_Card_07062022_122400.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:19:24 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:19:24 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 07:19:24 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 07:19:24 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_07_19_24.csv
+INFO 06/08/2022 07:19:24 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 07:19:24 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 07:19:59 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 07:19:59 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 07:19:59 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 07:19:59 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:19:59 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 07:19:59 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:19:59 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 07:19:59 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 07:19:59 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_07_19_59.csv
+INFO 06/08/2022 07:19:59 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 07:19:59 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 07:21:21 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 07:21:21 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 07:21:21 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 07:21:21 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:21:21 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 07:21:21 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:21:21 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 07:21:21 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 07:21:21 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_07_21_21.csv
+INFO 06/08/2022 07:21:21 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 07:21:21 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 07:30:23 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 07:30:23 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 07:30:23 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 07:30:23 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 07:30:23 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:30:23 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:30:23 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:30:23 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:30:23 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_07_30_23.csv
+INFO 06/08/2022 07:30:23 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_07_30_23.csv
+INFO 06/08/2022 07:30:23 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 07:30:23 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 07:30:23 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 07:30:23 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 07:56:05 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 07:56:05 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 07:56:05 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 07:56:05 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 07:56:05 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 07:56:05 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 07:56:05 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 07:56:05 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 07:56:05 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_07_56_05.csv
+INFO 06/08/2022 07:56:05 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 07:56:05 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:01:07 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:01:07 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:01:07 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:01:07 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:01:07 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:01:07 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:01:07 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:01:07 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:01:07 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_01_07.csv
+INFO 06/08/2022 08:01:07 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:01:07 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:01:40 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:01:40 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:01:40 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:01:40 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:01:40 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:01:40 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:01:40 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:01:40 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:01:40 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_01_40.csv
+INFO 06/08/2022 08:01:40 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:01:40 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:03:27 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:03:27 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:03:27 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:03:27 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:03:27 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:03:27 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:03:27 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:03:27 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:03:27 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_03_27.csv
+INFO 06/08/2022 08:03:27 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:03:27 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:04:18 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:04:18 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:04:18 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:04:18 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:04:18 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:04:18 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:04:18 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:04:18 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:04:18 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_04_18.csv
+INFO 06/08/2022 08:04:18 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:04:18 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:06:10 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:06:10 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:06:10 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:06:10 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:06:10 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:06:10 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:06:10 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:06:10 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:06:10 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_06_10.csv
+INFO 06/08/2022 08:06:10 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:06:10 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:07:07 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:07:07 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:07:07 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:07:07 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:07:07 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:07:07 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:07:07 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:07:07 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:07:07 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_07_07.csv
+INFO 06/08/2022 08:07:07 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:07:07 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:16:13 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:16:13 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:16:13 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:16:13 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:16:13 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:16:13 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:16:13 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:16:13 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:16:13 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_16_13.csv
+INFO 06/08/2022 08:16:13 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:16:13 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:18:44 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:18:44 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:18:44 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:18:44 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:18:44 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:18:44 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:18:44 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:18:44 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:18:44 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_18_44.csv
+INFO 06/08/2022 08:18:44 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:18:45 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:19:32 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:19:32 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:19:32 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:19:32 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:19:32 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:19:32 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:19:32 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:19:32 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:19:32 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_19_32.csv
+INFO 06/08/2022 08:19:32 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:19:32 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:20:17 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:20:17 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:20:17 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:20:17 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:20:17 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:20:17 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:20:17 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:20:17 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:20:17 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_20_17.csv
+INFO 06/08/2022 08:20:17 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:20:17 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:21:55 AM PREDICTION: Length of year of file = 8, Length of time of file = 6, Number of columns = 24
+INFO 06/08/2022 08:21:55 AM PREDICTION: GoodRaw directory deleted successfully!!!
+INFO 06/08/2022 08:21:55 AM PREDICTION: Good and Bad file directory created
+INFO 06/08/2022 08:21:55 AM PREDICTION: Credit_Card_07062022_125200.csv is valid!! moved to GoodRaw folder
+INFO 06/08/2022 08:21:55 AM PREDICTION: Column Length Validation Started!!
+INFO 06/08/2022 08:21:55 AM PREDICTION: Credit_Card_07062022_125200.csv validated. File remains in Good Folder
+INFO 06/08/2022 08:21:55 AM PREDICTION: Column Length Validation Completed!!
+INFO 06/08/2022 08:21:55 AM PREDICTION: Check for Whole Columns as Empty Validation Started!!
+INFO 06/08/2022 08:21:55 AM PREDICTION: Bad files moved to archive: CCDDIV/ArchivedData\BadData_2022-06-08_08_21_55.csv
+INFO 06/08/2022 08:21:55 AM PREDICTIONBadRaw directory deleted successfully!!!
+INFO 06/08/2022 08:21:55 AM PREDICTION: Excel file Converted directly to required csv file for future preprocessing
+INFO 06/08/2022 08:31:12 AM PREDICTION: GoodRaw directory deleted successfully!!!

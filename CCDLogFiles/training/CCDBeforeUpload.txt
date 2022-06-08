@@ -1,0 +1,7 @@
+ERROR 06/01/2022 11:04:45 AM Data Transformation Failed: module 'pandas' has no attribute 'read_ecsv'
+INFO 06/01/2022 11:04:58 AM TRAINING: Credit_Card_01062022_101600.csv transformed successfully
+INFO 06/01/2022 11:20:39 AM TRAINING: Credit_Card_01062022_101600.csv transformed successfully
+INFO 06/01/2022 11:21:18 AM TRAINING: Credit_Card_01062022_101600.csv transformed successfully
+INFO 06/01/2022 11:21:46 AM TRAINING: Credit_Card_01062022_101600.csv transformed successfully
+INFO 06/01/2022 11:22:46 AM TRAINING: Credit_Card_01062022_101600.csv transformed successfully
+INFO 06/02/2022 08:57:02 PM TRAINING: Credit_Card_01062022_101600.csv transformed successfully

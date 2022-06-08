@@ -1,0 +1,365 @@
+ERROR 06/02/2022 09:31:21 PM TRAINING: Error while doing pca decomposition: Shape of passed values is (30000, 3), indices imply (30000, 23)
+ERROR 06/02/2022 09:33:01 PM TRAINING: Error while doing pca decomposition: Shape of passed values is (30000, 3), indices imply (30000, 23)
+ERROR 06/02/2022 09:34:51 PM TRAINING: Error while doing pca decomposition: Shape of passed values is (30000, 3), indices imply (30000, 23)
+ERROR 06/02/2022 09:35:34 PM TRAINING: Error while doing pca decomposition: Shape of passed values is (30000, 2), indices imply (30000, 23)
+ERROR 06/02/2022 09:36:51 PM TRAINING: Error while doing pca decomposition: Shape of passed values is (30000, 2), indices imply (30000, 23)
+INFO 06/02/2022 09:44:03 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:44:03 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:44:03 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:44:30 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:44:30 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:44:30 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:44:38 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:44:38 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:44:38 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:45:00 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:45:00 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:45:00 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:45:11 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:45:11 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:45:11 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:45:21 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:45:21 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:45:21 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+ERROR 06/02/2022 09:45:43 PM TRAINING: Error while doing pca decomposition: Shape of passed values is (30000, 23), indices imply (30000, 24)
+INFO 06/02/2022 09:45:55 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:45:55 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:45:55 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:46:06 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:46:06 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:46:06 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:46:13 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:46:13 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:46:13 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:46:25 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:46:25 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:46:25 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:47:40 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:47:40 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:47:40 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:47:49 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:47:49 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:47:49 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:47:57 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:47:57 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:47:57 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:48:05 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:48:05 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:48:05 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:48:12 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:48:12 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:48:12 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:48:29 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:48:29 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:48:29 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:51:18 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:51:18 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:51:18 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/02/2022 09:51:40 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/02/2022 09:51:40 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/02/2022 09:51:40 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/03/2022 07:59:14 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/03/2022 08:04:29 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/03/2022 08:05:40 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/03/2022 08:08:15 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/03/2022 08:09:03 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/03/2022 08:10:52 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/03/2022 08:12:24 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/04/2022 09:27:49 AM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/04/2022 09:27:49 AM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/04/2022 09:27:49 AM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/04/2022 09:27:49 AM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/04/2022 09:28:26 AM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/04/2022 09:28:26 AM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/04/2022 09:28:26 AM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/04/2022 09:28:26 AM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/04/2022 07:57:06 PM TRAINING: Dataset has become more balanced
+INFO 06/04/2022 07:57:06 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/04/2022 07:57:06 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/04/2022 07:57:06 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/04/2022 07:57:06 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/04/2022 07:58:17 PM TRAINING: Dataset has become more balanced
+INFO 06/04/2022 07:58:17 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/04/2022 07:58:17 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/04/2022 07:58:17 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/04/2022 07:58:17 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/04/2022 07:59:48 PM TRAINING: Dataset has become more balanced
+INFO 06/04/2022 07:59:48 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/04/2022 07:59:48 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/04/2022 07:59:48 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/04/2022 07:59:48 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/05/2022 05:51:53 AM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 05:51:53 AM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 05:51:55 AM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 05:51:55 AM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 05:51:55 AM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/05/2022 05:53:09 AM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 05:53:09 AM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 05:53:10 AM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 05:53:10 AM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 05:53:10 AM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 23
+INFO 06/05/2022 12:45:12 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:45:13 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:45:13 PM TRAINING: Error while one hot encoding categorical features: "None of [Int64Index([ 16000,  20000,  30000,  40000,  50000,  60000,  70000,  80000,\n             90000, 100000,\n            ...\n            308000, 345293, 351282, 372495, 377000, 403500, 422000, 443001,\n            527143, 528666],\n           dtype='int64', length=174571)] are in the [columns]"
+INFO 06/05/2022 12:47:06 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:47:07 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:47:07 PM TRAINING: Error while one hot encoding categorical features: "None of [Int64Index([ 16000,  20000,  30000,  40000,  50000,  60000,  70000,  80000,\n             90000, 100000,\n            ...\n            308000, 345293, 351282, 372495, 377000, 403500, 422000, 443001,\n            527143, 528666],\n           dtype='int64', length=174571)] are in the [columns]"
+INFO 06/05/2022 12:47:34 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:47:35 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:47:36 PM TRAINING: Error while one hot encoding categorical features: "None of [Int64Index([ 16000,  20000,  30000,  40000,  50000,  60000,  70000,  80000,\n             90000, 100000,\n            ...\n            308000, 345293, 351282, 372495, 377000, 403500, 422000, 443001,\n            527143, 528666],\n           dtype='int64', length=174571)] are in the [columns]"
+INFO 06/05/2022 12:47:46 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:47:48 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:47:48 PM TRAINING: Error while one hot encoding categorical features: "None of [Int64Index([ 16000,  20000,  30000,  40000,  50000,  60000,  70000,  80000,\n             90000, 100000,\n            ...\n            308000, 345293, 351282, 372495, 377000, 403500, 422000, 443001,\n            527143, 528666],\n           dtype='int64', length=174571)] are in the [columns]"
+INFO 06/05/2022 12:48:29 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:48:30 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:48:30 PM TRAINING: Error while one hot encoding categorical features: "None of [Int64Index([ 16000,  20000,  30000,  40000,  50000,  60000,  70000,  80000,\n             90000, 100000,\n            ...\n            308000, 345293, 351282, 372495, 377000, 403500, 422000, 443001,\n            527143, 528666],\n           dtype='int64', length=174571)] are in the [columns]"
+INFO 06/05/2022 12:49:55 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:49:55 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:49:55 PM TRAINING: Error while one hot encoding categorical features: "None of [Index(['MALE', 'High School', 'Others', 'University', 'Married', 'Others',\n       'Single'],\n      dtype='object')] are in the [columns]"
+INFO 06/05/2022 12:50:52 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:50:52 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:50:52 PM TRAINING: Error while one hot encoding categorical features: "None of [Index(['MALE', 'High School', 'Others', 'University', 'Married', 'Others',\n       'Single'],\n      dtype='object')] are in the [columns]"
+INFO 06/05/2022 12:51:18 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:51:18 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:51:18 PM TRAINING: Error while one hot encoding categorical features: "None of [Index(['MALE', 'High School', 'Others', 'University', 'Married', 'Others',\n       'Single'],\n      dtype='object')] are in the [columns]"
+INFO 06/05/2022 12:53:44 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:53:44 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:53:44 PM TRAINING: Error while one hot encoding categorical features: Length of values does not match length of index
+INFO 06/05/2022 12:54:16 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:54:16 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:54:16 PM TRAINING: Error while one hot encoding categorical features: Length of values does not match length of index
+INFO 06/05/2022 12:54:50 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:54:50 PM TRAINING: One hot encoder model saved
+ERROR 06/05/2022 12:54:50 PM TRAINING: Error while one hot encoding categorical features: Length of values does not match length of index
+INFO 06/05/2022 12:59:59 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 12:59:59 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 12:59:59 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:01:06 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:01:07 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:01:07 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:01:36 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:01:36 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:01:36 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:02:18 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:02:18 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:02:18 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:04:39 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:04:39 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:04:39 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:04:51 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:04:51 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:04:51 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+ERROR 06/05/2022 01:07:24 PM TRAINING: Error while balancing dataset: could not convert string to float: 'FEMALE'
+INFO 06/05/2022 01:07:58 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:07:58 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:07:58 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+ERROR 06/05/2022 01:08:21 PM TRAINING: Error while balancing dataset: 'Only the Series name can be used for the key in Series dtype mappings.'
+INFO 06/05/2022 01:10:40 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:10:40 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:10:40 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+ERROR 06/05/2022 01:10:40 PM TRAINING: Error while balancing dataset: 'DataFrame' object has no attribute 'ravel'
+INFO 06/05/2022 01:10:55 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:10:56 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:10:56 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+ERROR 06/05/2022 01:11:18 PM TRAINING: Error while balancing dataset: 'Only the Series name can be used for the key in Series dtype mappings.'
+INFO 06/05/2022 01:12:15 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:12:16 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:12:16 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+ERROR 06/05/2022 01:12:38 PM TRAINING: Error while balancing dataset: 'Only the Series name can be used for the key in Series dtype mappings.'
+INFO 06/05/2022 01:13:18 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:13:18 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:13:18 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+ERROR 06/05/2022 01:13:41 PM TRAINING: Error while balancing dataset: 'Only the Series name can be used for the key in Series dtype mappings.'
+INFO 06/05/2022 01:15:20 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:15:20 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:15:20 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:15:42 PM TRAINING: Dataset has become more balanced
+ERROR 06/05/2022 01:15:42 PM TRAINING: Error while trying to scale data: 'numpy.ndarray' object has no attribute 'columns'
+INFO 06/05/2022 01:16:25 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:16:25 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:16:25 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:16:47 PM TRAINING: Dataset has become more balanced
+ERROR 06/05/2022 01:16:47 PM TRAINING: Error while trying to scale data: 'numpy.ndarray' object has no attribute 'columns'
+INFO 06/05/2022 01:19:06 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:19:06 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:19:06 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:19:21 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:19:21 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:19:21 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+ERROR 06/05/2022 01:19:42 PM TRAINING: Error while balancing dataset: Series.name must be a hashable type
+INFO 06/05/2022 01:20:04 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 01:20:04 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 01:20:04 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 01:20:27 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 01:20:27 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 01:20:29 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 01:20:29 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 01:20:29 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 02:05:15 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 02:05:15 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 02:05:16 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 02:05:29 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 02:05:29 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 02:05:29 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 02:05:51 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 02:05:51 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 02:05:53 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 02:05:53 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 02:05:53 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 02:07:56 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 02:07:56 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 02:07:56 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 02:08:17 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 02:08:17 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 02:08:18 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 02:08:18 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 02:08:18 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 02:08:48 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 02:08:48 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 02:08:48 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 02:09:09 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 02:09:09 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 02:09:11 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 02:09:11 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 02:09:11 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 02:09:46 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 02:09:46 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 02:09:46 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 02:10:06 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 02:10:06 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 02:10:08 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 02:10:08 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 02:10:08 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 03:09:08 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 03:09:08 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 03:09:08 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 03:09:30 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 03:09:30 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 03:09:31 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 03:09:31 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 03:09:31 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 03:12:09 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 03:12:09 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 03:12:09 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 03:12:31 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 03:12:31 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 03:12:33 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 03:12:33 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 03:12:33 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 04:01:26 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 04:01:26 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 04:01:26 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 04:01:47 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 04:01:47 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 04:01:49 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 04:01:49 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 04:01:49 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 04:03:05 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 04:03:05 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 04:03:05 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 04:03:26 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 04:03:26 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 04:03:28 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 04:03:28 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 04:03:28 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/05/2022 04:04:31 PM TRAINING: List of categorical features obtained
+INFO 06/05/2022 04:04:31 PM TRAINING: One hot encoder model saved
+INFO 06/05/2022 04:04:31 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/05/2022 04:04:53 PM TRAINING: Dataset has become more balanced
+INFO 06/05/2022 04:04:53 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/05/2022 04:04:55 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/05/2022 04:04:55 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/05/2022 04:04:55 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/06/2022 07:28:45 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:28:45 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:28:45 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/06/2022 07:29:06 AM TRAINING: Dataset has become more balanced
+INFO 06/06/2022 07:32:00 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:32:00 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:32:00 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/06/2022 07:32:21 AM TRAINING: Dataset has become more balanced
+INFO 06/06/2022 07:32:47 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:32:47 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:32:47 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/06/2022 07:33:09 AM TRAINING: Dataset has become more balanced
+INFO 06/06/2022 07:35:40 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:35:40 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:35:40 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others', 'University', 'Married', 'Others', 'Single']
+INFO 06/06/2022 07:36:01 AM TRAINING: Dataset has become more balanced
+INFO 06/06/2022 07:39:03 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:39:03 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:39:03 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/06/2022 07:39:24 AM TRAINING: Dataset has become more balanced
+INFO 06/06/2022 07:39:24 AM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/06/2022 07:39:26 AM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/06/2022 07:39:26 AM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/06/2022 07:39:26 AM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/06/2022 07:43:24 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:43:24 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:43:24 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+ERROR 06/06/2022 07:43:44 AM TRAINING: Error while balancing dataset: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:44:06 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:44:06 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:44:06 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+ERROR 06/06/2022 07:44:28 AM TRAINING: Error while balancing dataset: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:45:09 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:45:09 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:45:09 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+ERROR 06/06/2022 07:45:30 AM TRAINING: Error while balancing dataset: Series.name must be a hashable type
+INFO 06/06/2022 07:45:47 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:45:47 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:45:47 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+ERROR 06/06/2022 07:46:08 AM TRAINING: Error while balancing dataset: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+INFO 06/06/2022 07:46:31 AM TRAINING: List of categorical features obtained
+INFO 06/06/2022 07:46:31 AM TRAINING: One hot encoder model saved
+INFO 06/06/2022 07:46:31 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/06/2022 07:46:53 AM TRAINING: Dataset has become more balanced
+INFO 06/06/2022 07:46:53 AM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/06/2022 07:46:55 AM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/06/2022 07:46:55 AM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/06/2022 07:46:55 AM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/06/2022 12:39:44 PM TRAINING: List of categorical features obtained
+INFO 06/06/2022 12:39:44 PM TRAINING: One hot encoder model saved
+INFO 06/06/2022 12:39:44 PM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/06/2022 12:40:05 PM TRAINING: Dataset has become more balanced
+INFO 06/06/2022 12:40:05 PM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/06/2022 12:40:07 PM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/06/2022 12:40:07 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/06/2022 12:40:07 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27

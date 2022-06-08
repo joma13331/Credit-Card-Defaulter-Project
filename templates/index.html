@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Credit Card Default Prediction Project</title>
+        <link rel="stylesheet" href="../static/css/main.css">
+
+    </head>
+
+    <body>
+        <div id="container">
+            
+            <h1 id="project_name">
+                Credit Card Default Prediction
+            </h1>
+
+            <p id="logo"><img src={{image_url}} alt="iNeuron Logo" width=200px></p>
+
+            <div id="description">
+                <p>
+                    This Web Application implements a Machine Learning Solution to determine whether a customer will default on next month's payment based of his/her previous activities.<br>
+                    Any bank's future investments and financial activities are dependent on the amount of return from its previous investments and assets. Hence, predicting next month's defaulters will help the bank make a better estimate on how much financial activity it can carry out.<br>
+                    In order to determine this the following details are required:
+                </p>
+
+                <ol>
+                    <li>ID: ID of each client</li>
+                    <li>LIMIT_BAL: Amount of given credit</li>
+                    <li>SEX: Gender (1=male, 2=female)</li>
+                    <li>EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)</li>
+                    <li>MARRIAGE: Marital status (1=married, 2=single, 3=others)</li>
+                    <li>PAY_1: Repayment status for previous month (-2=no activity, -1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay for nine months and above)</li>
+                    <li>PAY_2: Repayment status for 2nd month previous to present month (-2=no activity, -1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay for nine months and above)</li>
+                    <li>PAY_3: Repayment status for 3rd month previous to present month (-2=no activity, -1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay for nine months and above)</li>
+                    <li>PAY_4: Repayment status for 4th month previous to present month (-2=no activity, -1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay for nine months and above)</li>
+                    <li>PAY_5: Repayment status for 5th month previous to present month (-2=no activity, -1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay for nine months and above)</li>
+                    <li>PAY_6: Repayment status for 6th month previous to present month (-2=no activity, -1=pay duly, 1=payment delay for one month, 2=payment delay for two months, … 8=payment delay for eight months, 9=payment delay for nine months and above)</li>
+                    <li>BILL_AMT1: Amount of bill statement for previous month</li>
+                    <li>BILL_AMT2: Amount of bill statement for 2nd month previous to present month</li>
+                    <li>BILL_AMT3: Amount of bill statement for 3rd month previous to present month</li>
+                    <li>BILL_AMT4: Amount of bill statement for 4th month previous to present month</li>
+                    <li>BILL_AMT5: Amount of bill statement for 5th month previous to present month</li>
+                    <li>BILL_AMT6: Amount of bill statement for 6th month previous to present month</li>
+                    <li>PAY_AMT1: Amount of payment for previous month</li>
+                    <li>PAY_AMT2: Amount of payment for 2nd month previous to present month</li>
+                    <li>PAY_AMT3: Amount of payment for 3rd month previous to present month</li>
+                    <li>PAY_AMT4: Amount of payment for 4th month previous to present month</li>
+                    <li>PAY_AMT5: Amount of payment for 5th month previous to present month</li>
+                    <li>PAY_AMT6: Amount of payment for 6th month previous to present month</li>
+
+                </ol>
+
+            </div>
+
+            <div id="predict">
+                <h2>Predict</h2>
+                <form action="/prediction" method="post" enctype="multipart/form-data">
+                    <input type="file" name="dataset" accept="application/vnd.ms-excel">
+                    <p><input type="submit" value="Predict"> <input type="reset"></p>
+                    <p>To get a prediction on Concrete Compressive Strength upload a .csv (Comma Separated Value) file in the following format</p>
+                    <ul>
+                        <li>Filename in format "Credit_Card_{DDMMYYYY}_{HHMMSS}data.csv"<br> Where "DDMMYYYY" represents the date and "HHMMSS" represents the time.</li>
+                        <li>Column Names in the first row in following format:</li>
+                        <li>
+                            <ol>
+                                <li>First Column Heading: "ID"</li>
+                                <li>Second Column Heading: "LIMIT_BAL"</li>
+                                <li>Third Column Heading: "SEX"</li>
+                                <li>Fourth Column Heading: "EDUCATION"</li>
+                                <li>Fifth Column Heading: "MARRIAGE"</li>
+                                <li>Sixth Column Heading: "PAY_1"</li>
+                                <li>Seventh Column Heading: "PAY_2"</li>
+                                <li>Eighth Column Heading: "PAY_3"</li>
+                                <li>Ninth Column Heading: "PAY_4"</li>
+                                <li>Tenth Column Heading: "PAY_5"</li>
+                                <li>Eleventh Column Heading: "PAY_6"</li>
+                                <li>Twelfth Column Heading: "BILL_AMT1"</li>
+                                <li>Thirteenth Column Heading: "BILL_AMT2"</li>
+                                <li>Fourteenth Column Heading: "BILL_AMT3"</li>
+                                <li>Fifteenth Column Heading: "BILL_AMT4"</li>
+                                <li>Sixteenth Column Heading: "BILL_AMT5"</li>
+                                <li>Seventeenth Column Heading: "BILL_AMT6"</li>
+                                <li>Eighteenth Column Heading: "PAY_AMT1"</li>
+                                <li>Nineteenth Column Heading: "PAY_AMT2"</li>
+                                <li>Twentieth Column Heading: "PAY_AMT3"</li>
+                                <li>Twenty First Column Heading: "PAY_AMT4"</li>
+                                <li>Twenty Second Column Heading: "PAY_AMT5"</li>
+                                <li>Twenty Third Column Heading: "PAY_AMT6"</li>
+                            </ol>
+                        </li>
+                        <li> The data to be predicted on should start from 2nd row</li>
+                    </ul>
+
+                </form>
+
+                <h2>Prediction Logs</h2>
+                <form action="/logs" method="post">
+                    <p>Select the logs you want to see.</p>
+                    <ul>
+                        <li><input type="radio" name="log_type" value="prediction/CCSBeforeUpload.txt">CCSBeforeUploadPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDataFormat.txt">CCSDataFormatPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDataInjestionComplete.txt">CCSDataInjestionCompPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDataLoader.txt">CCSDataLoaderPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSDBOperation.txt">CCSDBOperationPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSEda.txt">CCSPredEda</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSFeatureEngineering.txt">CCSFeatureEngineeringPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSFeatureSelection.txt">CCSFeatureSelectionPred</li>
+                        <li><input type="radio" name="log_type" value="prediction/CCSPredictionPipeline.txt">CCSPredictionPipeline</li>
+                    </ul>
+                    <p><input type="submit" value="Check Logs"></p>
+
+                </form>
+                
+            </div>
+
+            <div id="train">
+                <h2>Train</h2>
+                <form action="/train" method="post" enctype="multipart/form-data">
+                    <input type="file" name="dataset" accept="application/vnd.ms-excel">
+                    <p><input type="submit" value="Train"> <input type="reset"></p>
+                    <p>To train a model to obtain Concrete Compressive Strength upload a .csv (Comma Separated Value) file in the following format</p>
+                    <ul>
+                        <li>Filename in format "Concrete_Data_{DDMMYYYY}_{HHMMSS}data.csv"<br> Where "DDMMYYYY" represents the date and "HHMMSS" represents the time.</li>
+                        <li>Column Names in the first row in following format:</li>
+                        <li>
+                            <ol>
+                                 <li>First Column Heading: "ID"</li>
+                                <li>Second Column Heading: "LIMIT_BAL"</li>
+                                <li>Third Column Heading: "SEX"</li>
+                                <li>Fourth Column Heading: "EDUCATION"</li>
+                                <li>Fifth Column Heading: "MARRIAGE"</li>
+                                <li>Sixth Column Heading: "PAY_1"</li>
+                                <li>Seventh Column Heading: "PAY_2"</li>
+                                <li>Eighth Column Heading: "PAY_3"</li>
+                                <li>Ninth Column Heading: "PAY_4"</li>
+                                <li>Tenth Column Heading: "PAY_5"</li>
+                                <li>Eleventh Column Heading: "PAY_6"</li>
+                                <li>Twelfth Column Heading: "BILL_AMT1"</li>
+                                <li>Thirteenth Column Heading: "BILL_AMT2"</li>
+                                <li>Fourteenth Column Heading: "BILL_AMT3"</li>
+                                <li>Fifteenth Column Heading: "BILL_AMT4"</li>
+                                <li>Sixteenth Column Heading: "BILL_AMT5"</li>
+                                <li>Seventeenth Column Heading: "BILL_AMT6"</li>
+                                <li>Eighteenth Column Heading: "PAY_AMT1"</li>
+                                <li>Nineteenth Column Heading: "PAY_AMT2"</li>
+                                <li>Twentieth Column Heading: "PAY_AMT3"</li>
+                                <li>Twenty First Column Heading: "PAY_AMT4"</li>
+                                <li>Twenty Second Column Heading: "PAY_AMT5"</li>
+                                <li>Twenty Third Column Heading: "PAY_AMT6"</li>
+                                <li>Twenty Fourth Column Heading: "default.payment.next.month"</li>
+                            </ol>
+                        </li>
+                        <li> The data to be trained on should start from 2nd row</li>
+                    </ul>
+
+                </form>
+
+                <h2>Training Logs</h2>
+                <form action="/logs" method="post">
+                    <p>Select the logs you want to see.</p>
+                    <ul>
+                        <li><input type="radio" name="log_type" value="training/CCSBeforeUpload.txt">CCSBeforeUploadTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSClustering.txt">CCSClusteringTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDataFormat.txt">CCSDataFormatTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDataInjestionComplete.txt">CCSDataInjestionCompTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDataLoader.txt">CCSDataLoaderTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSDBOperation.txt">CCSDBOperationTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSEda.txt">CCSEdaTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSFeatureEngineering.txt">CCSFeatureEngineeringTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSFeatureSelection.txt">CCSFeatureSelectionTrain</li>
+                        <li><input type="radio" name="log_type" value="training/CCSTrainingPipeline.txt">CCSTrainingPipeline</li>
+                        <li><input type="radio" name="log_type" value="training/CCSModelFinder.txt">CCSModelFinder</li>
+                    </ul>
+                    <p><input type="submit" value="Check Logs"></p>
+
+                </form>
+                <p>Warning: Training Takes a lot of time</p>
+            </div>
+        </div>
+
+    </body>
+</html>
