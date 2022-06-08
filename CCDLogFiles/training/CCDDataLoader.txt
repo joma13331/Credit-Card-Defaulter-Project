@@ -155,3 +155,5 @@ INFO 06/06/2022 07:46:31 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted
 INFO 06/06/2022 07:46:31 AM TRAINING: The data is loaded successfully as a pandas dataframe
 INFO 06/06/2022 12:39:44 PM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
 INFO 06/06/2022 12:39:44 PM TRAINING: The data is loaded successfully as a pandas dataframe
+INFO 06/08/2022 08:55:35 AM TRAINING: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/08/2022 08:55:35 AM TRAINING: The data is loaded successfully as a pandas dataframe

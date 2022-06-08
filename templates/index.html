@@ -57,7 +57,7 @@
             <div id="predict">
                 <h2>Predict</h2>
                 <form action="/prediction" method="post" enctype="multipart/form-data">
-                    <input type="file" name="dataset" accept="application/vnd.ms-excel">
+                    <input type="file" name="dataset" accept=".csv">
                     <p><input type="submit" value="Predict"> <input type="reset"></p>
                     <p>To get a prediction on Concrete Compressive Strength upload a .csv (Comma Separated Value) file in the following format</p>
                     <ul>
@@ -118,7 +118,7 @@
             <div id="train">
                 <h2>Train</h2>
                 <form action="/train" method="post" enctype="multipart/form-data">
-                    <input type="file" name="dataset" accept="application/vnd.ms-excel">
+                    <input type="file" name="dataset" accept=".csv">
                     <p><input type="submit" value="Train"> <input type="reset"></p>
                     <p>To train a model to obtain Concrete Compressive Strength upload a .csv (Comma Separated Value) file in the following format</p>
                     <ul>

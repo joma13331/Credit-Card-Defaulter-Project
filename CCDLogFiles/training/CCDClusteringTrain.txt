@@ -52,3 +52,5 @@ INFO 06/06/2022 07:47:09 AM TRAINING The optimum cluster value obtained is 3 wit
 INFO 06/06/2022 07:47:09 AM TRAINING: EEClustering has been done, with cluster column added to dataset
 INFO 06/06/2022 12:40:20 PM TRAINING The optimum cluster value obtained is 3 with wcss=720617.8301317275
 INFO 06/06/2022 12:40:21 PM TRAINING: EEClustering has been done, with cluster column added to dataset
+INFO 06/08/2022 08:56:13 AM TRAINING The optimum cluster value obtained is 3 with wcss=767255.2713344246
+INFO 06/08/2022 08:56:14 AM TRAINING: EEClustering has been done, with cluster column added to dataset

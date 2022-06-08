@@ -37,7 +37,7 @@ def ccd_train_route():
             if file_item.filename:
                 now = datetime.now()
                 dt_string = now.strftime("%d%m%Y_%H%M%S")
-                file_name = f"Credit_card_{dt_string}.csv"
+                file_name = f"Credit_Card_{dt_string}.csv"
 
                 if os.path.isdir("CCDUploadedFiles"):
                     shutil.rmtree("CCDUploadedFiles")
@@ -91,7 +91,7 @@ def ee_prediction_route():
             if file_item.filename:
                 now = datetime.now()
                 dt_string = now.strftime("%d%m%Y_%H%M%S")
-                file_name = f"Concrete_Data_{dt_string}.xls"
+                file_name = f"Credit_Card_{dt_string}.csv"
 
                 if os.path.isdir("CCDUploadedFiles"):
                     shutil.rmtree("CCDUploadedFiles")

@@ -363,3 +363,12 @@ INFO 06/06/2022 12:40:05 PM TRAINING: The dataset has been scaled using Standard
 INFO 06/06/2022 12:40:07 PM TRAINING: The Principal Component Analysis model is Trained
 INFO 06/06/2022 12:40:07 PM TRAINING: The Principal Component Analysis model is saved at CCDModels/
 INFO 06/06/2022 12:40:07 PM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 27
+INFO 06/08/2022 08:55:35 AM TRAINING: List of categorical features obtained
+INFO 06/08/2022 08:55:35 AM TRAINING: One hot encoder model saved
+INFO 06/08/2022 08:55:35 AM TRAINING: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/08/2022 08:55:58 AM TRAINING: Dataset has become more balanced
+INFO 06/08/2022 08:55:58 AM TRAINING: The dataset has been scaled using Standard Scalar
+INFO 06/08/2022 08:56:00 AM TRAINING: The Principal Component Analysis model is Trained
+INFO 06/08/2022 08:56:00 AM TRAINING: The Principal Component Analysis model is saved at CCDModels/
+INFO 06/08/2022 08:56:00 AM TRAINING: The Principal Component Analysis was carried out on the data and the no of components in the resultant features for future pipeline are 28

@@ -4,3 +4,9 @@ INFO 06/02/2022 08:57:01 PM TRAINING: Start of Data Transformation
 INFO 06/02/2022 08:57:02 PM TRAINING: Data Transformation Complete
 INFO 06/02/2022 08:57:02 PM TRAINING: Start of upload of the Good Data to Cassandra Database
 INFO 06/02/2022 08:57:02 PM TRAINING: End of Injestion and Validation
+INFO 06/08/2022 08:55:34 AM TRAINING: Start of Injestion and Validation
+INFO 06/08/2022 08:55:34 AM TRAINING: Raw Data Validation complete
+INFO 06/08/2022 08:55:34 AM TRAINING: Start of Data Transformation
+INFO 06/08/2022 08:55:35 AM TRAINING: Data Transformation Complete
+INFO 06/08/2022 08:55:35 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 06/08/2022 08:55:35 AM TRAINING: End of Injestion and Validation

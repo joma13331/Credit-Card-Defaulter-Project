@@ -204,3 +204,10 @@ INFO 06/08/2022 08:20:17 AM PREDICTION: The following columns were dropped: ['id
 INFO 06/08/2022 08:20:17 AM PREDICTION: The following columns were dropped: []
 INFO 06/08/2022 08:21:55 AM PREDICTION: The following columns were dropped: ['id', 'ID']
 INFO 06/08/2022 08:21:55 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:41:12 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:41:12 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:52:09 AM PREDICTION: The following columns were dropped: ['id', 'ID']
+INFO 06/08/2022 08:52:09 AM PREDICTION: The following columns were dropped: []
+INFO 06/08/2022 08:55:35 AM TRAINING: The following columns were dropped: id
+INFO 06/08/2022 08:55:58 AM TRAINING: the features with all values as equal are []
+INFO 06/08/2022 08:55:58 AM TRAINING: The following columns were dropped: []

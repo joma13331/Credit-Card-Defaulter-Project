@@ -30,3 +30,5 @@ INFO 06/08/2022 08:18:45 AM PREDICTION: There are 0 features with missing values
 INFO 06/08/2022 08:19:32 AM PREDICTION: There are 0 features with missing values
 INFO 06/08/2022 08:20:17 AM PREDICTION: There are 0 features with missing values
 INFO 06/08/2022 08:21:55 AM PREDICTION: There are 0 features with missing values
+INFO 06/08/2022 08:41:12 AM PREDICTION: There are 0 features with missing values
+INFO 06/08/2022 08:52:09 AM PREDICTION: There are 0 features with missing values

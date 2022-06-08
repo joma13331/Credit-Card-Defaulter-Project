@@ -154,3 +154,22 @@ INFO 06/06/2022 08:51:25 PM TRAINING: Start of Training for cluster 2
 INFO 06/06/2022 11:32:37 PM TRAINING:Model for cluster 2 trained
 INFO 06/06/2022 11:32:37 PM TRAINING: Successful End of Training 
 INFO 06/06/2022 11:32:37 PM TRAINING: Training Pipeline Successfully Completed
+INFO 06/08/2022 08:55:35 AM TRAINING: Start of Training Pipeline
+INFO 06/08/2022 08:55:35 AM TRAINING: Getting Validated Data
+INFO 06/08/2022 08:55:35 AM TRAINING: Validated Data Obtained
+INFO 06/08/2022 08:55:35 AM TRAINING: Data Preprocessing started
+INFO 06/08/2022 08:55:35 AM TRAINING: Removed the 'id' column
+INFO 06/08/2022 08:55:35 AM TRAINING: Separated the features and labels
+INFO 06/08/2022 08:55:35 AM TRAINING: Checked for null values and if any were present imputed them
+INFO 06/08/2022 08:55:35 AM TRAINING: Obtained the Numerical and Categorical Features
+INFO 06/08/2022 08:55:35 AM TRAINING: Obtained the Continuous and Discrete Features
+INFO 06/08/2022 08:55:35 AM TRAINING: Converted Categorical features to One Hot Encoding
+INFO 06/08/2022 08:55:58 AM TRAINING: Compensated the imbalance in Data using SMOTETomek
+INFO 06/08/2022 08:55:58 AM TRAINING: Dropped all the irrelevant columns after feature selection
+INFO 06/08/2022 08:55:58 AM TRAINING: All the features have been scaled
+INFO 06/08/2022 08:55:59 AM TRAINING: Converted all possible continuous columns to normal
+INFO 06/08/2022 08:56:00 AM TRAINING: Performed PCA and retained 99% of variance
+INFO 06/08/2022 08:56:00 AM TRAINING: Data Preprocessing completed
+INFO 06/08/2022 08:56:00 AM TRAINING: Data Clustering Started
+INFO 06/08/2022 08:56:14 AM TRAINING: Data Clustering Completed
+INFO 06/08/2022 08:56:14 AM TRAINING: Start of Training for cluster 0

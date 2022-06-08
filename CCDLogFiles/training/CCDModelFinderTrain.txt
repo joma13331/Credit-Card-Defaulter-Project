@@ -156,3 +156,11 @@ INFO 06/06/2022 11:32:37 PM TRAINING: Search for best xgb classifier model ended
 INFO 06/06/2022 11:32:37 PM TRAINING: The best model is xgb classifier
 INFO 06/06/2022 11:32:37 PM TRAINING: The best model is xgb classifier
 INFO 06/06/2022 11:32:37 PM TRAINING: The best model is xgb classifier
+INFO 06/08/2022 08:56:14 AM TRAINING: Search for best model started
+INFO 06/08/2022 08:56:14 AM TRAINING: Search for best logistic regressor model started
+INFO 06/08/2022 08:56:14 AM TRAINING: Using GridSearchCV to obtain the optimum parameters(dict_keys(['C', 'penalty', 'solver']))  of Logistic Regressor
+INFO 06/08/2022 08:56:24 AM TRAINING: The optimum parameters of Logistic Regressor are C=0.01, penalty=l2,solver=newton-cg  with the f1 score of 0.6048296160768858
+INFO 06/08/2022 08:56:24 AM TRAINING: Best Logistic  Regressor trained
+INFO 06/08/2022 08:56:24 AM TRAINING: Search for best ridge model ended
+INFO 06/08/2022 08:56:24 AM TRAINING: Search for best svc model started
+INFO 06/08/2022 08:56:24 AM TRAINING: Using GridSearchCV to obtain the optimum parameters(dict_keys(['C', 'kernel', 'degree', 'gamma'])) of SVC
