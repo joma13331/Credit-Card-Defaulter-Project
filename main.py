@@ -69,16 +69,16 @@ def ccd_train_route():
                 message = "No records Found\n TRY AGAIN"
                 return render_template("train.html", message=message, image_url=img_url)
     except ValueError as e:
-        # return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
-        raise e
+        return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
+        # raise e
 
     except KeyError as e:
-        # return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
-        raise e
+        return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
+        # raise e
 
     except Exception as e:
-        # return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
-        raise e
+        return render_template('train.html', message=f"ERROR: {str(e)}\n TRY AGAIN", image_url=img_url)
+        # raise e
 
 
 @app.route('/prediction', methods=["POST"])
