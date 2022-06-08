@@ -126,19 +126,16 @@ def ee_prediction_route():
                 return render_template("predict.html", message=message, records=result, image_url=img_url)
 
     except ValueError as e:
-        # message = f"Value Error: {str(e)}\nTry Again"
-        # return render_template("predict.html", message=message, image_url=img_url)
-        raise e
+        message = f"Value Error: {str(e)}\nTry Again"
+        return render_template("predict.html", message=message, image_url=img_url)
 
     except KeyError as e:
-        # message = f"Key Error: {str(e)}\nTry Again"
-        # return render_template("predict.html", message=message, image_url=img_url)
-        raise e
+        message = f"Key Error: {str(e)}\nTry Again"
+        return render_template("predict.html", message=message, image_url=img_url)
 
     except Exception as e:
-        # message = f"Error: {str(e)}\nTry Again"
-        # return render_template("predict.html", message=message, image_url=img_url)
-        raise e
+        message = f"Error: {str(e)}\nTry Again"
+        return render_template("predict.html", message=message, image_url=img_url)
 
 
 @app.route("/logs", methods=["POST"])
