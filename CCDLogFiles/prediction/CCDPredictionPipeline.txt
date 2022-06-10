@@ -368,3 +368,13 @@ INFO 06/10/2022 11:52:26 AM PREDICTION: Converted all possible continuous column
 INFO 06/10/2022 11:52:26 AM PREDICTION: Performed PCA and retained 99% of variance
 INFO 06/10/2022 11:52:26 AM PREDICTION: Data Preprocessing completed
 INFO 06/10/2022 11:52:28 AM PREDICTION: End of EEPrediction Pipeline
+INFO 06/10/2022 12:51:38 PM PREDICTION: Start of Prediction Pipeline
+INFO 06/10/2022 12:51:38 PM PREDICTION: Data to predict on obtained
+INFO 06/10/2022 12:51:38 PM PREDICTION: Removed the 'id' and 'ID' column
+INFO 06/10/2022 12:51:38 PM PREDICTION: Dropped all the irrelevant columns after feature selection
+INFO 06/10/2022 12:51:38 PM PREDICTION: Checked for null values and if any were present imputed them
+INFO 06/10/2022 12:51:38 PM PREDICTION: All the features have been scaled
+INFO 06/10/2022 12:51:38 PM PREDICTION: Converted all possible continuous columns to normal
+INFO 06/10/2022 12:51:38 PM PREDICTION: Performed PCA and retained 99% of variance
+INFO 06/10/2022 12:51:38 PM PREDICTION: Data Preprocessing completed
+INFO 06/10/2022 12:51:39 PM PREDICTION: End of EEPrediction Pipeline

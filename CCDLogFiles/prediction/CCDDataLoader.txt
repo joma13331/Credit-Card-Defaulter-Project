@@ -84,3 +84,5 @@ INFO 06/08/2022 09:39:02 AM PREDICTION: The data is loaded successfully as a pan
 INFO 06/08/2022 09:39:02 AM PREDICTION: The data is loaded successfully as a pandas dataframe
 INFO 06/10/2022 11:52:25 AM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
 INFO 06/10/2022 11:52:25 AM PREDICTION: The data is loaded successfully as a pandas dataframe
+INFO 06/10/2022 12:51:38 PM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/10/2022 12:51:38 PM PREDICTION: The data is loaded successfully as a pandas dataframe
