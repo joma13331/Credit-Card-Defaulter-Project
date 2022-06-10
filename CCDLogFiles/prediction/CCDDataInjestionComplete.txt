@@ -244,3 +244,27 @@ INFO 06/08/2022 09:37:27 AM TRAINING: Start of upload of the Good Data to Cassan
 INFO 06/08/2022 09:37:27 AM TRAINING: Start of upload of the Good Data to Cassandra Database
 INFO 06/08/2022 09:37:27 AM TRAINING: End of Injestion and Validation
 INFO 06/08/2022 09:37:27 AM TRAINING: End of Injestion and Validation
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of Injestion and Validation
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of Injestion and Validation
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of Injestion and Validation
+INFO 06/08/2022 09:39:02 AM TRAINING: Raw Data Validation complete
+INFO 06/08/2022 09:39:02 AM TRAINING: Raw Data Validation complete
+INFO 06/08/2022 09:39:02 AM TRAINING: Raw Data Validation complete
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of Data Transformation
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of Data Transformation
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of Data Transformation
+INFO 06/08/2022 09:39:02 AM TRAINING: Data Transformation Complete
+INFO 06/08/2022 09:39:02 AM TRAINING: Data Transformation Complete
+INFO 06/08/2022 09:39:02 AM TRAINING: Data Transformation Complete
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 06/08/2022 09:39:02 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 06/08/2022 09:39:02 AM TRAINING: End of Injestion and Validation
+INFO 06/08/2022 09:39:02 AM TRAINING: End of Injestion and Validation
+INFO 06/08/2022 09:39:02 AM TRAINING: End of Injestion and Validation
+INFO 06/10/2022 11:52:25 AM TRAINING: Start of Injestion and Validation
+INFO 06/10/2022 11:52:25 AM TRAINING: Raw Data Validation complete
+INFO 06/10/2022 11:52:25 AM TRAINING: Start of Data Transformation
+INFO 06/10/2022 11:52:25 AM TRAINING: Data Transformation Complete
+INFO 06/10/2022 11:52:25 AM TRAINING: Start of upload of the Good Data to Cassandra Database
+INFO 06/10/2022 11:52:25 AM TRAINING: End of Injestion and Validation

@@ -76,3 +76,11 @@ INFO 06/08/2022 09:37:27 AM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] convert
 INFO 06/08/2022 09:37:27 AM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
 INFO 06/08/2022 09:37:27 AM PREDICTION: The data is loaded successfully as a pandas dataframe
 INFO 06/08/2022 09:37:27 AM PREDICTION: The data is loaded successfully as a pandas dataframe
+INFO 06/08/2022 09:39:02 AM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/08/2022 09:39:02 AM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/08/2022 09:39:02 AM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/08/2022 09:39:02 AM PREDICTION: The data is loaded successfully as a pandas dataframe
+INFO 06/08/2022 09:39:02 AM PREDICTION: The data is loaded successfully as a pandas dataframe
+INFO 06/08/2022 09:39:02 AM PREDICTION: The data is loaded successfully as a pandas dataframe
+INFO 06/10/2022 11:52:25 AM PREDICTION: ['SEX', 'EDUCATION', 'MARRIAGE'] converted to categorical columns
+INFO 06/10/2022 11:52:25 AM PREDICTION: The data is loaded successfully as a pandas dataframe

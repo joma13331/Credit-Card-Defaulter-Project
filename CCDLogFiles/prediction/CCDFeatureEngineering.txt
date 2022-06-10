@@ -235,3 +235,31 @@ INFO 06/08/2022 09:37:27 AM PREDICTION: The Principal Component Analysis model i
 INFO 06/08/2022 09:37:27 AM PREDICTION: The Principal Component Analysis model is loaded from CCDModels/
 INFO 06/08/2022 09:37:27 AM PREDICTION: Data transformed into 27 using pca model
 INFO 06/08/2022 09:37:27 AM PREDICTION: Data transformed into 27 using pca model
+INFO 06/08/2022 09:39:02 AM PREDICTION: List of categorical features obtained
+INFO 06/08/2022 09:39:02 AM PREDICTION: List of categorical features obtained
+INFO 06/08/2022 09:39:02 AM PREDICTION: List of categorical features obtained
+INFO 06/08/2022 09:39:02 AM PREDICTION: One hot encoder model loaded
+INFO 06/08/2022 09:39:02 AM PREDICTION: One hot encoder model loaded
+INFO 06/08/2022 09:39:02 AM PREDICTION: One hot encoder model loaded
+INFO 06/08/2022 09:39:02 AM PREDICTION: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/08/2022 09:39:02 AM PREDICTION: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/08/2022 09:39:02 AM PREDICTION: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/08/2022 09:39:02 AM PREDICTION: The dataset has been scaled using Standard Scalar
+INFO 06/08/2022 09:39:02 AM PREDICTION: The dataset has been scaled using Standard Scalar
+INFO 06/08/2022 09:39:02 AM PREDICTION: The dataset has been scaled using Standard Scalar
+INFO 06/08/2022 09:39:02 AM PREDICTION: The Principal Component Analysis model is loaded from CCDModels/
+INFO 06/08/2022 09:39:02 AM PREDICTION: The Principal Component Analysis model is loaded from CCDModels/
+INFO 06/08/2022 09:39:02 AM PREDICTION: The Principal Component Analysis model is loaded from CCDModels/
+INFO 06/08/2022 09:39:02 AM PREDICTION: Data transformed into 27 using pca model
+INFO 06/08/2022 09:39:02 AM PREDICTION: Data transformed into 27 using pca model
+INFO 06/08/2022 09:39:02 AM PREDICTION: Data transformed into 27 using pca model
+INFO 06/10/2022 11:52:25 AM PREDICTION: List of categorical features obtained
+INFO 06/10/2022 11:52:25 AM PREDICTION: One hot encoder model loaded
+INFO 06/10/2022 11:52:25 AM PREDICTION: Deleted Columns = ['SEX', 'EDUCATION', 'MARRIAGE']
+Created columns = ['MALE', 'High School', 'Others_EDUCATION', 'University', 'Married', 'Others_MARRIAGE', 'Single']
+INFO 06/10/2022 11:52:26 AM PREDICTION: The dataset has been scaled using Standard Scalar
+INFO 06/10/2022 11:52:26 AM PREDICTION: The Principal Component Analysis model is loaded from CCDModels/
+INFO 06/10/2022 11:52:26 AM PREDICTION: Data transformed into 27 using pca model
